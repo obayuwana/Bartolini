@@ -1,0 +1,136 @@
+
+body{
+  background-color: #fefaf6 !important;
+}
+
+h1{
+  font-family: Biotif-Bold,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  font-size: 4.5rem !important;
+}
+
+h2{
+  font-family: Biotif-Bold,Helvetica Neue,Helvetica,Arial,sans-serif;
+font-weight: 700;
+font-size: 3.5rem !important;
+
+}
+
+p{
+  font-family: 'montserrat' 'cursive' ;
+  font-size: 1.2rem;
+  font-weight: 100;
+
+}
+
+
+.logo-text{
+  font-family: 'Yanone Kaffeesatz', 'cursive';
+  font-weight: 700;
+  font-size: 30px;
+  margin-left: 7px;
+}
+
+.logo-img{
+  margin-top: 7px;
+}
+
+.navbar-brand{
+margin: 5px;
+
+}
+
+.social-icon{
+  margin: 12px 20px 0;
+  font-size: 15px;
+  color: #f38181;
+}
+
+#navbarNav{
+position: relative;
+padding-left: 20%;
+}
+
+.social{
+  position: relative;
+  border-right: 20px;
+  border-left: 10px;
+  padding-bottom: 10px;
+
+}
+
+.nav-link{
+  font-family: 'Yanone Kaffeesatz' 'cursive';
+  font-weight: 700;
+  font-size: 11px;
+}
+.nav-item{
+  padding: 10px;
+  margin:10px;
+}
+
+.dropdown-item{
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: 200;
+  font-size: 12px;
+}
+
+
+
+/* INTRODUCTION */
+.introduction{
+  padding-top:50px;
+}
+.intro-span{
+  padding: inherit;
+  margin-top: 15px;
+}
+
+.intro-hi{
+  font-size: 20px;
+}
+
+.intro-text {
+  width: 40%;
+  margin-bottom: 20px;
+  padding: 10px;
+  float: left;
+}
+
+.intro-photos {
+  width: 60%;
+  float: right;
+}
+
+.intro-img{
+  width: 100%;
+  height: auto;
+  border-radius:20px;
+}
+
+/* CAROUSEL */
+
+
+#carouselExampleIndicators{
+  background-color: #393e46 !important;
+    border-radius:20px;
+    margin:20px 20px;
+}
+.carousel-item{
+  padding: 0 15%;
+}
+
+
+/* STORIA */
+
+
+.container-storia{
+  margin:2.4rem 6rem;
+  background-color: #d8ac9c !important;
+  border-radius:20px;
+}
+
+.storia{
+  padding:0 30%;
+  margin-top:40px;
+}
