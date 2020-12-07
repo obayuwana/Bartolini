@@ -134,3 +134,21 @@ padding-left: 20%;
   padding:0 30%;
   margin-top:40px;
 }
+
+big-heading{
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+  }
+
+
+
